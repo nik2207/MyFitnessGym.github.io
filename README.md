@@ -8,5 +8,4 @@ This project is a website for "My Fitness Gym," focusing on promoting health and
 
 ## Technologies Used
 - HTML5
-- CSS3 (if applicable)
-- JavaScript (if applicable)
+- CSS
